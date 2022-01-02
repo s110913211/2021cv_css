@@ -1,0 +1,127 @@
+
+body{
+    margin:0;
+    background-color: #FDF6F0;
+    color:#7E370C
+}
+.cover{
+    width:100%;
+    height:600px;
+}
+.top{
+    
+}
+.words{
+    position:absolute;
+    right:0px;
+    top: 500px;
+}
+.note-1{
+    font-size: 40px;
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.753);
+    color:rgb(222, 135, 135) 
+    
+}
+.middle{
+padding:30px;
+
+}
+h2{
+   
+
+}
+
+.personal-photo{
+    width: 300px;
+    height:350px;
+    border-radius: 900px;
+}
+.about-me{
+    width:90%
+}
+.down{
+    background-color: #F8E2CF;
+    width:100%;
+    height: 100px;
+    text-align:center;
+    padding: 50px 0 20px;
+}
+.skill-photo{
+    width:90%;
+    
+}
+.icon{
+    width: 50px;
+}
+.design{
+    background-color: rgb(255, 217, 160);
+    padding: 20px ;
+    width:25%;
+    height:500px;
+    display: inline-block;
+    vertical-align: top;
+    
+
+}
+.photography{
+    background-color:  rgb(255, 217, 160);
+    margin: 0px 15px;
+    padding: 20px ;
+    width:25%;
+    height:500px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    
+    }
+.digital-marketing{
+    background-color:  rgb(255, 217, 160);
+    padding: 20px ;
+    margin: 0px 10px;
+    width:25%;
+     height:500px;
+    display: inline-block;
+    vertical-align: top;
+   
+        }
+
+hr{
+    width:80%;
+}
+h2{
+    text-align:center
+}
+
+.my-skill{
+    margin: 30px;
+}
+.btn {
+    -moz-border-radius: 50;
+    border-radius: 60px;
+    color: #ffffff;
+    font-size: 33px;
+    background: #ffafaf;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position:relative;
+    left:50%;
+    top:420px;
+    
+  }
+  
+  .btn:hover {
+    background: #f56d6d;
+    text-decoration: none;
+  }
+  a{
+      color: #7E370C;
+      text-decoration: none;
+  }
+  a:hover {
+    color: #ffafaf;
+  }
+  .note-2{
+      color:#dd6b6b;
+      
+    }
